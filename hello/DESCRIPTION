@@ -1,9 +1,9 @@
 Package: hello
 Type: Package
-Title: What the package does (short line)
+Title: Hello World
 Version: 1.0
 Date: 2014-07-04
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Janos Gyerik
+Maintainer: Janos <info@janosgyerik.com>
+Description: Just an example package for testing
+License: http://www.gnu.org/copyleft/gpl.html
