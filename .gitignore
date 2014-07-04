@@ -7,3 +7,7 @@
 # R data files from past sessions
 .Rdata
 .Rproj.user
+
+# R packaging related
+*.Rcheck
+*.tar.gz
