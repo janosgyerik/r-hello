@@ -7,3 +7,4 @@ Author: Janos Gyerik
 Maintainer: Janos <info@janosgyerik.com>
 Description: Just an example package for testing
 License: http://www.gnu.org/copyleft/gpl.html
+Suggests: testthat
