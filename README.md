@@ -26,8 +26,7 @@ and run again `test('.')`.
 
 See the docs of [testthat][3] on how to write unit tests.
 
-Links
------
+---
 
 [1]: http://www.rstudio.com/products/rpackages/devtools/
 [2]: https://github.com/hadley/testthat
