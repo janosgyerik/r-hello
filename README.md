@@ -29,12 +29,10 @@ See the docs of [testthat][3] on how to write unit tests.
 Links
 -----
 
-- http://www.rstudio.com/products/rpackages/devtools/
-- https://github.com/hadley/testthat
-- http://r-pkgs.had.co.nz/tests.html
+- [http://www.rstudio.com/products/rpackages/devtools/][1]
+- [https://github.com/hadley/testthat][2]
+- [http://r-pkgs.had.co.nz/tests.html][3]
 
----
-
-[1]: http://www.rstudio.com/products/rpackages/devtools/
+[1]: http://stackoverflow.com/users/214446/mb21
 [2]: https://github.com/hadley/testthat
 [3]: http://r-pkgs.had.co.nz/tests.html
